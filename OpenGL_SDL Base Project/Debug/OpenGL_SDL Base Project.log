@@ -1,0 +1,26 @@
+﻿Build started 1/11/2016 2:09:51 PM.
+     1>Project "C:\Users\Adam\Desktop\Advanced Games Engine Creation\AGEC3DSAssignment\OpenGL_SDL Base Project\OpenGL_SDL Base Project\OpenGL_SDL Base Project.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\MSVS2013\VC\bin\CL.exe /c /I"..\OpenGL_SDL Base Project\SDL\mixer_include" /I"..\OpenGL_SDL Base Project\SDL\include" /I"..\OpenGL_SDL Base Project\SDL\image_include" /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt GameScreenLevel1.cpp
+         GameScreenLevel1.cpp
+     1>c:\users\adam\desktop\advanced games engine creation\agec3dsassignment\opengl_sdl base project\opengl_sdl base project\gamescreenlevel1.cpp(117): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         D:\MSVS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Adam\Desktop\Advanced Games Engine Creation\AGEC3DSAssignment\OpenGL_SDL Base Project\Debug\OpenGL_SDL Base Project.exe" /INCREMENTAL /NOLOGO /LIBPATH:"..\OpenGL_SDL Base Project\SDL" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Adam\Desktop\Advanced Games Engine Creation\AGEC3DSAssignment\OpenGL_SDL Base Project\Debug\OpenGL_SDL Base Project.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Adam\Desktop\Advanced Games Engine Creation\AGEC3DSAssignment\OpenGL_SDL Base Project\Debug\OpenGL_SDL Base Project.lib" /MACHINE:X86 Debug\3DSLoader.obj
+         Debug\3DSObject.obj
+         Debug\Camera.obj
+         Debug\GameScreen.obj
+         Debug\GameScreenLevel1.obj
+         Debug\GameScreenManager.obj
+         Debug\Source.obj
+         Debug\Texture2D.obj
+         ..\gl\glut32.lib
+         SDL\SDL2.lib
+         SDL\SDL2main.lib
+         SDL\SDL2_image.lib
+         SDL\SDL2_mixer.lib
+         OpenGL_SDL Base Project.vcxproj -> C:\Users\Adam\Desktop\Advanced Games Engine Creation\AGEC3DSAssignment\OpenGL_SDL Base Project\Debug\OpenGL_SDL Base Project.exe
+     1>Done Building Project "C:\Users\Adam\Desktop\Advanced Games Engine Creation\AGEC3DSAssignment\OpenGL_SDL Base Project\OpenGL_SDL Base Project\OpenGL_SDL Base Project.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.29
